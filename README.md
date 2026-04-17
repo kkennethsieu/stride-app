@@ -67,5 +67,5 @@ The iOS app stores runs locally in SwiftData and syncs to the backend on save. F
 
 | Repo | Description |
 |---|---|
-| [nrc-clone-ios](https://github.com/kkennethsieu/stride_ios) | SwiftUI app — tracking, history, auth, HealthKit |
+| [nrc-clone-ios](https://github.com/kkennethsieu/stride-ios) | SwiftUI app — tracking, history, auth, HealthKit |
 | [nrc-clone-backend](https://github.com/kkennethsieu/stride-backend) | Node.js/Express API — Firestore CRUD, auth middleware |
