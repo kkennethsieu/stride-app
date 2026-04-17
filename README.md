@@ -2,7 +2,7 @@
 
 A full-stack Nike Run Club clone. Built as a portfolio project to demonstrate end-to-end iOS development — from GPS tracking and SwiftUI to a REST API backend with Firebase Auth.
 
-> **iOS repo**: [nrc-clone-ios](https://github.com/kkennethsieu/stride_ios)
+> **iOS repo**: [nrc-clone-ios](https://github.com/kkennethsieu/stride-ios)
 > **Backend repo**: [nrc-clone-backend](https://github.com/kkennethsieu/stride-backend)
 
 ---
