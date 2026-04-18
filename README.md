@@ -2,14 +2,30 @@
 
 A full-stack Nike Run Club clone. Built as a portfolio project to demonstrate end-to-end iOS development — from GPS tracking and SwiftUI to a REST API backend with Firebase Auth.
 
-> **iOS repo**: [nrc-clone-ios](https://github.com/kkennethsieu/stride-ios)
-> **Backend repo**: [nrc-clone-backend](https://github.com/kkennethsieu/stride-backend)
+> **iOS repo**: [stride-ios](https://github.com/kkennethsieu/stride-ios)  
+> **Backend repo**: [stride-backend](https://github.com/kkennethsieu/stride-backend)
+
+---
+
+<p align="center">
+  <img src="Logo.gif" width="120" alt="Stride logo" />
+</p>
 
 ---
 
 ## Demo
 
-> *(Add a GIF or screenshot here)*
+<p align="center">
+  <img src="getstarted.gif" width="200" alt="Onboarding" />
+  &nbsp;&nbsp;
+  <img src="login_page.PNG" width="200" alt="Login" />
+  &nbsp;&nbsp;
+  <img src="activity_page.PNG" width="200" alt="Activity feed" />
+  &nbsp;&nbsp;
+  <img src="finished_run.gif" width="200" alt="Finished run" />
+  &nbsp;&nbsp;
+  <img src="active_run.gif" width="200" alt="Active run" />
+</p>
 
 ---
 
@@ -67,5 +83,5 @@ The iOS app stores runs locally in SwiftData and syncs to the backend on save. F
 
 | Repo | Description |
 |---|---|
-| [nrc-clone-ios](https://github.com/kkennethsieu/stride-ios) | SwiftUI app — tracking, history, auth, HealthKit |
-| [nrc-clone-backend](https://github.com/kkennethsieu/stride-backend) | Node.js/Express API — Firestore CRUD, auth middleware |
+| [stride-ios](https://github.com/kkennethsieu/stride-ios) | SwiftUI app — tracking, history, auth, HealthKit |
+| [stride-backend](https://github.com/kkennethsieu/stride-backend) | Node.js/Express API — Firestore CRUD, auth middleware |
